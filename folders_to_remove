@@ -1,0 +1,4 @@
+./validation/bin/
+./validation/obj/
+./validation-tests/bin/
+./validation-tests/obj/
