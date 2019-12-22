@@ -1,3 +1,7 @@
+# v0.1.2
+## Added
+* Forcing succeeded Regex Match validation method.
+
 # v0.1.1
 ## Added
 * NuGet configuration with Nexus link.
