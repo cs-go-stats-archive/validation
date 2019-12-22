@@ -7,9 +7,9 @@
     <Authors />
     <Company></Company>
     <Product />
-    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <AssemblyVersion>0.1.2.0</AssemblyVersion>
     <FileVersion>0.1.0.0</FileVersion>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageId>CSGOStats.Infrastructure.Validation</PackageId>
   </PropertyGroup>
