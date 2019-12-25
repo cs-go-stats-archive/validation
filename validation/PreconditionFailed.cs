@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace CSGOStats.Infrastructure.Validation
+namespace CSGOStats.Extensions.Validation
 {
     [Serializable]
     public class PreconditionFailed : ArgumentException

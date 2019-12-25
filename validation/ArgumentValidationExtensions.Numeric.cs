@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSGOStats.Infrastructure.Validation
+namespace CSGOStats.Extensions.Validation
 {
     public static partial class ArgumentValidationExtensions
     {

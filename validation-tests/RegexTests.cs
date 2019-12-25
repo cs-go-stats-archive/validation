@@ -2,7 +2,7 @@
 using FluentAssertions;
 using Xunit;
 
-namespace CSGOStats.Infrastructure.Validation.Tests
+namespace CSGOStats.Extensions.Validation.Tests
 {
     public class RegexTests
     {

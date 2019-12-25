@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>CSGOStats.Infrastructure.Validation.Tests</RootNamespace>
+    <RootNamespace>CSGOStats.Extensions.Validation.Tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
 
-    <AssemblyName>CSGOStats.Infrastructure.Validation.Tests</AssemblyName>
+    <AssemblyName>CSGOStats.Extensions.Validation.Tests</AssemblyName>
 
     <Authors />
 
@@ -16,7 +16,7 @@
 
     <Version>0.1.0</Version>
 
-    <PackageId>CSGOStats.Infrastructure.Validation.Tests</PackageId>
+    <PackageId>CSGOStats.Extensions.Validation.Tests</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
