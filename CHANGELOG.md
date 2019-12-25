@@ -1,3 +1,9 @@
+# v0.1.3
+## Added
+* Instance state validation method.
+## Changed
+* Package namespace to 'Extensions'.
+
 # v0.1.2
 ## Added
 * Forcing succeeded Regex Match validation method.

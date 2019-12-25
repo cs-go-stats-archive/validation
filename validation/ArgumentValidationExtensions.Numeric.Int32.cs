@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace CSGOStats.Infrastructure.Validation
+namespace CSGOStats.Extensions.Validation
 {
     public static partial class ArgumentValidationExtensions
     {

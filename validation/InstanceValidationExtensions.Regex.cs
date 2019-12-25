@@ -1,8 +1,8 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace CSGOStats.Infrastructure.Validation
+namespace CSGOStats.Extensions.Validation
 {
-    public static class InstanceValidationExtensions
+    public static partial class InstanceValidationExtensions
     {
         public static Match ForSucceeded(this Match x) =>
             x.Success 
