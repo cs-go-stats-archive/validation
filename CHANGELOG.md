@@ -1,3 +1,7 @@
+# v0.1.4
+## Added
+* `long` validation methods.
+
 # v0.1.3
 ## Added
 * Instance state validation method.
